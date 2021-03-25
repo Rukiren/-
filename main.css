@@ -1,0 +1,30 @@
+.out{
+  height: 200px;
+  width: 1400px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align: center;
+  background-color: #6C91BF;
+}
+.sensor{
+  width: 150px;
+  height: 100px;
+  border-color: #307351;
+  border-style: solid;
+  text-align: center;
+  margin:auto;
+  margin-right: 50px;
+  border-radius: 20px;
+  background-color: #5FB0B7;
+}
+.value{
+  width: 150px;
+  height: 80px;
+  background-color: #5BC8AF;
+  vertical-align: bottom;
+  border-radius: 20px;
+}
+body{
+
+}
